@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "airbnb"
-  },
   "api": {
-    "projectId": "00h35din",
+    "projectId": "8npv4xpo",
     "dataset": "production"
+  },
+  "project": {
+    "name": "binsaleh-realestate-airbnb"
   },
   "plugins": [
     "@sanity/base",
